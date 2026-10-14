@@ -1,0 +1,294 @@
+{
+  "id": "kota",
+  "name": "Kota",
+  "native": "Kōv Māt",
+  "iso": "kfe",
+  "glotto": "kota1263",
+  "qid": "Q33484",
+  "family": "Dravidian",
+  "subfamily": "South Dravidian I (Tamil–Kannada)",
+  "state": "Tamil Nadu (Nilgiri District)",
+  "coords": "11.42°N, 76.86°E",
+  "pop": "~930 (2011 estimate)",
+  "status": "Critically Endangered",
+  "script": "Tamil script; Latin/IPA in academic literature",
+  "wordOrder": "SOV (Subject–Object–Verb)",
+  "morphology": "Agglutinative, suffixing",
+  "lead": "<b>Kota</b> (endonym: <i>Kōv Māt</i>) is a Critically Endangered South Dravidian language spoken by the indigenous Kota community across seven settlements (<i>kōkāl</i>) in the Nilgiri Hills of Tamil Nadu, India.<sup>[1][2]</sup> Together with Toda, it forms the Toda–Kota subgroup of South Dravidian.<sup>[3]</sup>",
+  "history": "<p>The Kota community historically inhabited seven villages in the Nilgiri plateau—including Kollimalai, Porthimund, Kotagiri (Aggal), Kil-Kotagiri, Trichigadi, Sholur, and Gudalur—functioning traditionally as blacksmiths, potters, carpenters, and ceremonial musicians within the Nilgiri inter-tribal system.<sup>[1][4]</sup></p><p>M. B. Emeneau published a four-volume collection of Kota narratives and a grammatical sketch between 1944 and 1946.<sup>[1]</sup> The speaker population resides in seven villages and numbers under 1,000 individuals, placing Kota in UNESCO's Critically Endangered category.<sup>[2]</sup></p>",
+  "phonology": "<p>Kota retains a five-vowel quality system (<code>/i, e, a, o, u/</code>) with phonemic vowel length (10 vowels total).<sup>[1][3]</sup> Unlike Toda, Kota did not develop front rounded vowels, though it experienced unaccented vowel syncope that created dense consonant clusters.<sup>[3]</sup> Its consonant system contrasts dental, alveolar, and retroflex stops (<code>/t̪, d̪/</code>, <code>/t, d/</code>, <code>/ʈ, ɖ/</code>).<sup>[1]</sup></p>",
+  "consonants": [
+    [
+      "Stop / Affricate",
+      "p, b",
+      "t̪, d̪",
+      "t, d",
+      "ʈ, ɖ",
+      "tʃ, dʒ",
+      "k, g"
+    ],
+    [
+      "Fricative",
+      "",
+      "",
+      "s",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Nasal",
+      "m",
+      "",
+      "n",
+      "ɳ",
+      "ɲ",
+      "ŋ"
+    ],
+    [
+      "Lateral",
+      "",
+      "",
+      "l",
+      "ɭ",
+      "",
+      ""
+    ],
+    [
+      "Rhotic / Approx.",
+      "v",
+      "",
+      "r",
+      "ɽ",
+      "j",
+      ""
+    ]
+  ],
+  "syntax": "<p>Kota uses Subject–Object–Verb (SOV) word order.<sup>[1]</sup> Nouns inflect on an oblique stem for accusative (<code>-n</code>), dative (<code>-k</code>), and locative (<code>-l</code>). Verbs mark past and non-past stems via suffixal alternation, followed by pronominal endings.<sup>[1]</sup></p>",
+  "lessons": [
+    {
+      "title": "Lesson 1: Pronouns & Kinship",
+      "intro": "Personal pronouns and core kinship terms from Emeneau (1944: 15–28) and DEDR.<sup>[1][5]</sup>",
+      "vocab": [
+        {
+          "orth": "ān",
+          "ipa": "/aːn/",
+          "gloss": "I (1SG)",
+          "cite": "Emeneau 1944: 20"
+        },
+        {
+          "orth": "ām",
+          "ipa": "/aːm/",
+          "gloss": "we (1PL.INCL)",
+          "cite": "Emeneau 1944: 20"
+        },
+        {
+          "orth": "ēm",
+          "ipa": "/eːm/",
+          "gloss": "we (1PL.EXCL)",
+          "cite": "Emeneau 1944: 20"
+        },
+        {
+          "orth": "nī",
+          "ipa": "/niː/",
+          "gloss": "you (2SG)",
+          "cite": "Emeneau 1944: 20"
+        },
+        {
+          "orth": "avn",
+          "ipa": "/avn/",
+          "gloss": "he (3SG.M)",
+          "cite": "DEDR 1"
+        },
+        {
+          "orth": "avḷ",
+          "ipa": "/avɭ/",
+          "gloss": "she (3SG.F)",
+          "cite": "DEDR 1"
+        },
+        {
+          "orth": "eyn",
+          "ipa": "/ejn/",
+          "gloss": "father",
+          "cite": "DEDR 196a"
+        },
+        {
+          "orth": "av",
+          "ipa": "/av/",
+          "gloss": "mother",
+          "cite": "DEDR 273"
+        }
+      ],
+      "quiz": {
+        "q": "How does Kota distinguish 'he' and 'she' in the third-person singular?",
+        "a": "avn (/avn/, 'he') with masculine suffix -n versus avḷ (/avɭ/, 'she') with feminine suffix -ḷ."
+      }
+    },
+    {
+      "title": "Lesson 2: Basic Nouns & Numerals",
+      "intro": "Core nouns demonstrating syncope of second-syllable vowels compared to Proto-Dravidian.<sup>[3][5]</sup>",
+      "vocab": [
+        {
+          "orth": "nīr",
+          "ipa": "/niːr/",
+          "gloss": "water",
+          "cite": "DEDR 3690a"
+        },
+        {
+          "orth": "pāl",
+          "ipa": "/paːl/",
+          "gloss": "milk",
+          "cite": "DEDR 4096"
+        },
+        {
+          "orth": "marm",
+          "ipa": "/marm/",
+          "gloss": "tree (cf. Tamil maram)",
+          "cite": "DEDR 4711a"
+        },
+        {
+          "orth": "kaṇ",
+          "ipa": "/kaɳ/",
+          "gloss": "eye",
+          "cite": "DEDR 1159a"
+        },
+        {
+          "orth": "kī",
+          "ipa": "/kiː/",
+          "gloss": "hand / arm",
+          "cite": "DEDR 2023"
+        },
+        {
+          "orth": "oḍ",
+          "ipa": "/oɖ/",
+          "gloss": "one (1)",
+          "cite": "DEDR 990"
+        },
+        {
+          "orth": "eyḍ",
+          "ipa": "/ejɖ/",
+          "gloss": "two (2)",
+          "cite": "DEDR 474"
+        },
+        {
+          "orth": "mūnd",
+          "ipa": "/muːnd̪/",
+          "gloss": "three (3)",
+          "cite": "DEDR 5052"
+        }
+      ],
+      "quiz": {
+        "q": "What phonological change does Kota marm ('tree') show relative to Proto-Dravidian *maram?",
+        "a": "Loss (syncope) of the unaccented second-syllable short vowel /a/."
+      }
+    },
+    {
+      "title": "Lesson 3: Verbal Stems (S1 & S2)",
+      "intro": "Every Kota verb has a primary stem (S1) and a secondary past/participial stem (S2).<sup>[1]</sup>",
+      "vocab": [
+        {
+          "orth": "vār- (vad-)",
+          "ipa": "/vaːr-/",
+          "gloss": "to come",
+          "cite": "DEDR 5270"
+        },
+        {
+          "orth": "ōg- (ōy-)",
+          "ipa": "/oːg-/",
+          "gloss": "to go",
+          "cite": "DEDR 4572"
+        },
+        {
+          "orth": "tin- (tid-)",
+          "ipa": "/t̪in-/",
+          "gloss": "to eat",
+          "cite": "DEDR 3263a"
+        },
+        {
+          "orth": "uṇ- (uḍ-)",
+          "ipa": "/uɳ-/",
+          "gloss": "to drink",
+          "cite": "DEDR 600"
+        },
+        {
+          "orth": "kāṇ- (kaḍ-)",
+          "ipa": "/kaːɳ-/",
+          "gloss": "to see",
+          "cite": "DEDR 1443"
+        }
+      ],
+      "quiz": {
+        "q": "What is the secondary (past) stem of vār- ('to come')?",
+        "a": "vad- (/vad̪-/)."
+      }
+    },
+    {
+      "title": "Lesson 4: Interlinear Glossed Sentences",
+      "intro": "Clause construction from Emeneau (1944).<sup>[1]</sup>",
+      "igt": [
+        {
+          "words": [
+            "ān",
+            "kōkāl-k",
+            "ōy-p-ēn"
+          ],
+          "morphs": [
+            "1SG.NOM",
+            "village-DAT",
+            "go.S2-PST-1SG"
+          ],
+          "trans": "'I went to the Kota village.' (Emeneau 1944: 26)"
+        },
+        {
+          "words": [
+            "avn",
+            "nīr-n",
+            "uḍ-t-ān"
+          ],
+          "morphs": [
+            "3SG.M.NOM",
+            "water-ACC",
+            "drink.S2-PST-3SG.M"
+          ],
+          "trans": "'He drank the water.' (Emeneau 1944)"
+        }
+      ],
+      "quiz": {
+        "q": "Which suffix marks the third-person singular masculine subject on uḍ-t-ān?",
+        "a": "-ān (3SG.M)."
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Emeneau, Murray B. (1944–1946). <i>Kota Texts</i> (Parts 1–4). University of California Publications in Linguistics, Vols. 2–3. Berkeley.",
+      "url": "https://archive.org/details/kotatexts0001emen",
+      "label": "Internet Archive"
+    },
+    {
+      "id": 2,
+      "text": "Press Information Bureau, Government of India (2014). 'Endangered Languages in India' (Release ID: 108207).",
+      "url": "https://pib.gov.in/newsite/printrelease.aspx?relid=108207",
+      "label": "PIB Gov.in"
+    },
+    {
+      "id": 3,
+      "text": "Krishnamurti, Bhadriraju (2003). <i>The Dravidian Languages</i>. Cambridge University Press.",
+      "url": "https://doi.org/10.1017/CBO9780511486876",
+      "label": "DOI: 10.1017/CBO9780511486876"
+    },
+    {
+      "id": 4,
+      "text": "Wolf, Richard K. (2005). <i>The Black Cow's Footprint: Time, Space, and Music in the Lives of the Kotas of South India</i>. University of Illinois Press.",
+      "url": "https://www.worldcat.org/oclc/60373459",
+      "label": "WorldCat OCLC"
+    },
+    {
+      "id": 5,
+      "text": "Burrow, T., & Emeneau, M. B. (1984). <i>A Dravidian Etymological Dictionary</i> (2nd ed.). Oxford: Clarendon Press.",
+      "url": "https://dsal.uchicago.edu/dictionaries/burrow/",
+      "label": "UChicago DSAL"
+    }
+  ]
+}

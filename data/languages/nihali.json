@@ -1,0 +1,257 @@
+{
+  "id": "nihali",
+  "name": "Nihali (Kalto)",
+  "native": "Kalto",
+  "iso": "nll",
+  "glotto": "niha1238",
+  "qid": "Q33904",
+  "family": "Language Isolate",
+  "subfamily": "Isolate (Unclassified core lexicon)",
+  "state": "Maharashtra (Buldhana) & Madhya Pradesh (Burhanpur)",
+  "coords": "21.05°N, 76.53°E",
+  "pop": "~2,000 (Nagaraja 2014)",
+  "status": "Critically Endangered",
+  "script": "Devanagari and IPA",
+  "wordOrder": "SOV (Subject–Object–Verb)",
+  "morphology": "Agglutinative, suffixing",
+  "lead": "<b>Nihali</b> (also called <b>Kalto</b> or <b>Nahali</b>) is a Critically Endangered language isolate spoken in the Buldhana district of Maharashtra and the adjoining East Nimar (Burhanpur) district of Madhya Pradesh along the Tapti River valley in central India.<sup>[1][2]</sup> Although it has absorbed heavy lexical borrowing from Korku (Austroasiatic), Dravidian, and Marathi/Hindi, roughly 25% to 35% of its core Swadesh vocabulary—including pronouns, anatomical terms, and basic verbs—has no established external cognates.<sup>[1][2]</sup>",
+  "history": "<p>Nihali speakers have lived for centuries in a symbiotic socioeconomic relationship with the neighboring Korku (North Munda) community in villages around Jamod in Jalgaon Jamod tehsil.<sup>[1][2]</sup> F. B. J. Kuiper (1962) and Norman Zide analyzed its multilayered lexicon, noting that Nihali speakers also used a specialized register as a secret argot.<sup>[1]</sup> K. S. Nagaraja published a comprehensive descriptive grammar and lexicon in 2014.<sup>[2]</sup></p>",
+  "phonology": "<p>Nihali has a five-vowel quality system (<code>/i, e, a, o, u/</code>) with length distinctions and a consonant inventory typical of central Indian linguistic area languages, including retroflex stops (<code>/ʈ, ʈʰ, ɖ, ɖʰ/</code>) and a retroflex flap <code>/ɽ/</code>.<sup>[2]</sup></p>",
+  "consonants": [
+    [
+      "Stop (Voiceless)",
+      "p, pʰ",
+      "t̪, t̪ʰ",
+      "ʈ, ʈʰ",
+      "tʃ, tʃʰ",
+      "k, kʰ"
+    ],
+    [
+      "Stop (Voiced)",
+      "b, bʰ",
+      "d̪, d̪ʰ",
+      "ɖ, ɖʰ",
+      "dʒ, dʒʰ",
+      "g, gʰ"
+    ],
+    [
+      "Fricative / Nasal",
+      "m",
+      "n, s",
+      "ɳ",
+      "ɲ",
+      "ŋ, h"
+    ],
+    [
+      "Liquid / Glide",
+      "v",
+      "l, r",
+      "ɽ",
+      "j",
+      ""
+    ]
+  ],
+  "syntax": "<p>Nihali is strictly SOV. Case suffixes attach directly to noun phrases: accusative/dative <code>-ke / -na</code>, ergative/instrumental <code>-ka / -ki</code>, genitive <code>-n</code>, and locative <code>-mi / -ṭi</code>.<sup>[2]</sup></p>",
+  "lessons": [
+    {
+      "title": "Lesson 1: Isolate Pronominal System",
+      "intro": "Nihali personal pronouns lack cognates in Munda, Dravidian, or Indo-Aryan (Kuiper 1962; Nagaraja 2014: 48–56).<sup>[1][2]</sup>",
+      "vocab": [
+        {
+          "orth": "jō",
+          "ipa": "/dʒoː/",
+          "gloss": "I (1SG.NOM)",
+          "cite": "Nagaraja 2014: 49"
+        },
+        {
+          "orth": "tyēko",
+          "ipa": "/t̪jeːko/",
+          "gloss": "we two (1DU)",
+          "cite": "Nagaraja 2014: 49"
+        },
+        {
+          "orth": "māni",
+          "ipa": "/maːni/",
+          "gloss": "we (1PL)",
+          "cite": "Nagaraja 2014: 49"
+        },
+        {
+          "orth": "nē",
+          "ipa": "/neː/",
+          "gloss": "you (2SG.NOM)",
+          "cite": "Nagaraja 2014: 50"
+        },
+        {
+          "orth": "lā",
+          "ipa": "/laː/",
+          "gloss": "you all (2PL)",
+          "cite": "Nagaraja 2014: 50"
+        },
+        {
+          "orth": "ēte",
+          "ipa": "/eːt̪e/",
+          "gloss": "he / she (3SG)",
+          "cite": "Nagaraja 2014: 51"
+        }
+      ],
+      "quiz": {
+        "q": "What are the Nihali first-person ('I') and second-person ('you') singular pronouns?",
+        "a": "jō (/dʒoː/, 'I') and nē (/neː/, 'you')."
+      }
+    },
+    {
+      "title": "Lesson 2: Unaffiliated Core Vocabulary",
+      "intro": "Core nouns belonging to the unaligned Nihali stratum (Kuiper 1962; Nagaraja 2014).<sup>[1][2]</sup>",
+      "vocab": [
+        {
+          "orth": "jiki",
+          "ipa": "/dʒiki/",
+          "gloss": "eye",
+          "cite": "Nagaraja 2014: 221"
+        },
+        {
+          "orth": "joppo",
+          "ipa": "/dʒoppo/",
+          "gloss": "water",
+          "cite": "Nagaraja 2014: 223"
+        },
+        {
+          "orth": "āpo",
+          "ipa": "/aːpo/",
+          "gloss": "fire",
+          "cite": "Nagaraja 2014: 186"
+        },
+        {
+          "orth": "kōrta",
+          "ipa": "/koːrt̪a/",
+          "gloss": "blood",
+          "cite": "Nagaraja 2014: 238"
+        },
+        {
+          "orth": "pāṭo",
+          "ipa": "/paːʈo/",
+          "gloss": "head",
+          "cite": "Nagaraja 2014: 275"
+        },
+        {
+          "orth": "bākra",
+          "ipa": "/baːkra/",
+          "gloss": "hand",
+          "cite": "Nagaraja 2014: 194"
+        },
+        {
+          "orth": "mandi",
+          "ipa": "/mand̪i/",
+          "gloss": "tooth",
+          "cite": "Nagaraja 2014: 256"
+        }
+      ],
+      "quiz": {
+        "q": "Which Nihali isolate roots mean 'water' and 'fire'?",
+        "a": "joppo (/dʒoppo/, 'water') and āpo (/aːpo/, 'fire')."
+      }
+    },
+    {
+      "title": "Lesson 3: Core Verbs & Tense Markers",
+      "intro": "Verbal stems and inflectional suffixes (Nagaraja 2014: 95–130).<sup>[2]</sup>",
+      "vocab": [
+        {
+          "orth": "ṭyē-",
+          "ipa": "/ʈjeː-/",
+          "gloss": "to eat",
+          "cite": "Nagaraja 2014: 215"
+        },
+        {
+          "orth": "ḍē-",
+          "ipa": "/ɖeː-/",
+          "gloss": "to drink / give",
+          "cite": "Nagaraja 2014: 218"
+        },
+        {
+          "orth": "ē-",
+          "ipa": "/eː-/",
+          "gloss": "to go",
+          "cite": "Nagaraja 2014: 190"
+        },
+        {
+          "orth": "pā-",
+          "ipa": "/paː-/",
+          "gloss": "to come",
+          "cite": "Nagaraja 2014: 271"
+        },
+        {
+          "orth": "-be / -bi",
+          "ipa": "/-be/",
+          "gloss": "present/non-past suffix",
+          "cite": "Nagaraja 2014: 108"
+        },
+        {
+          "orth": "-ken / -kan",
+          "ipa": "/-ken/",
+          "gloss": "past tense suffix",
+          "cite": "Nagaraja 2014: 112"
+        }
+      ],
+      "quiz": {
+        "q": "What is the Nihali verb root meaning 'to eat'?",
+        "a": "ṭyē- (/ʈjeː-/)."
+      }
+    },
+    {
+      "title": "Lesson 4: Interlinear Glossed Sentences",
+      "intro": "Clause examples from Nagaraja (2014).<sup>[2]</sup>",
+      "igt": [
+        {
+          "words": [
+            "jō",
+            "joppo",
+            "ḍē-ken"
+          ],
+          "morphs": [
+            "1SG.NOM",
+            "water",
+            "drink-PST"
+          ],
+          "trans": "'I drank water.' (Nagaraja 2014: 114)"
+        },
+        {
+          "words": [
+            "ēte",
+            "āpo-mi",
+            "ē-kan"
+          ],
+          "morphs": [
+            "3SG.NOM",
+            "fire-LOC",
+            "go-PST"
+          ],
+          "trans": "'He went toward the fire.' (Nagaraja 2014)"
+        }
+      ],
+      "quiz": {
+        "q": "What is the grammatical role of -mi in āpo-mi?",
+        "a": "Locative case suffix ('at / toward')."
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Kuiper, F. B. J. (1962). <i>Nahali: A Comparative Study</i>. Mededelingen der Koninklijke Nederlandse Akademie van Wetenschappen, Afd. Letterkunde, 25(5). Amsterdam: Noord-Hollandsche Uitgevers Maatschappij.",
+      "url": "https://www.worldcat.org/oclc/2914908",
+      "label": "WorldCat OCLC"
+    },
+    {
+      "id": 2,
+      "text": "Nagaraja, K. S. (2014). <i>The Nihali Language (Grammar, Texts and Vocabulary)</i>. Manasagangotri, Mysore: Central Institute of Indian Languages (CIIL).",
+      "url": "https://www.worldcat.org/oclc/904446818",
+      "label": "WorldCat OCLC"
+    },
+    {
+      "id": 3,
+      "text": "Press Information Bureau, Government of India (2014). 'Endangered Languages in India' (Release ID: 108207).",
+      "url": "https://pib.gov.in/newsite/printrelease.aspx?relid=108207",
+      "label": "PIB Gov.in"
+    }
+  ]
+}

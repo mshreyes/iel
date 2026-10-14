@@ -1,0 +1,283 @@
+{
+  "id": "toto",
+  "name": "Toto",
+  "native": "Toto",
+  "iso": "txo",
+  "glotto": "toto1304",
+  "qid": "Q36842",
+  "family": "Sino-Tibetan",
+  "subfamily": "Tibeto-Burman (Dhimalish)",
+  "state": "West Bengal (Alipurduar District)",
+  "coords": "26.83°N, 89.31°E",
+  "pop": "1,632 (2021 tribal council register)",
+  "status": "Critically Endangered",
+  "script": "Toto script (Unicode U+1E290–U+1E2BF); Bengali; Latin",
+  "wordOrder": "SOV (Subject–Object–Verb)",
+  "morphology": "Agglutinative, ergative-absolutive / nominative",
+  "lead": "<b>Toto</b> is a Critically Endangered Sino-Tibetan (Tibeto-Burman) language spoken in the village of Totopara in Alipurduar district, West Bengal, along the India–Bhutan border.<sup>[1][2]</sup> Within Tibeto-Burman, George van Driem classifies Toto alongside Dhimal in the Dhimalish subgroup.<sup>[2]</sup>",
+  "history": "<p>The Toto community resides in a single geographical enclave, Totopara, bordered by the Torsha River to the east and the foothills of Bhutan to the north.<sup>[1]</sup> Fieldwork by Amitabha Sengupta and Basanta Kumar Roy and later by George van Driem documented the grammar and lexicon.<sup>[1][2]</sup></p><p>In 2015, community elder and writer Dhaniram Toto developed an indigenous 31-letter alphabet for the language, which was encoded in The Unicode Standard (Version 14.0, block U+1E290–U+1E2BF) in 2021.<sup>[4]</sup> Despite community literacy initiatives, multi-lingual contact with Nepali and Bengali in Totopara has led to language shift among younger speakers.<sup>[3]</sup></p>",
+  "phonology": "<p>Toto possesses six oral vowels (<code>/i, e, ə, a, o, u/</code>) and a phonemic glottal stop <code>/ʔ/</code>.<sup>[1][2]</sup> Its consonant inventory contrasts voiceless unaspirated, voiceless aspirated, and voiced stops across bilabial, dental/alveolar, palatal, and velar places of articulation, plus a series of voiced and voiceless nasals and liquids.<sup>[2]</sup></p>",
+  "consonants": [
+    [
+      "Stop (Voiceless)",
+      "p, pʰ",
+      "t, tʰ",
+      "tʃ, tʃʰ",
+      "k, kʰ",
+      "ʔ"
+    ],
+    [
+      "Stop (Voiced)",
+      "b",
+      "d",
+      "dʒ",
+      "g",
+      ""
+    ],
+    [
+      "Fricative",
+      "",
+      "s",
+      "",
+      "",
+      "h"
+    ],
+    [
+      "Nasal",
+      "m",
+      "n",
+      "",
+      "ŋ",
+      ""
+    ],
+    [
+      "Liquid / Glide",
+      "w",
+      "l, r",
+      "j",
+      "",
+      ""
+    ]
+  ],
+  "syntax": "<p>Toto is verb-final (SOV). Nominal case relations are marked by enclitic postpositions: ergative/instrumental <code>-nā</code>, dative/accusative <code>-kē</code>, genitive <code>-kō</code>, and locative <code>-tā</code>.<sup>[1][2]</sup></p>",
+  "lessons": [
+    {
+      "title": "Lesson 1: Personal Pronouns & Case Clitics",
+      "intro": "Pronominal roots and nominal case markers from van Driem (1995) and Basumatary (2014).<sup>[2][3]</sup>",
+      "vocab": [
+        {
+          "orth": "ka",
+          "ipa": "/ka/",
+          "gloss": "I (1SG)",
+          "cite": "van Driem 1995"
+        },
+        {
+          "orth": "kā-ng",
+          "ipa": "/kaːŋ/",
+          "gloss": "my (1SG.GEN)",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "na",
+          "ipa": "/na/",
+          "gloss": "you (2SG)",
+          "cite": "van Driem 1995"
+        },
+        {
+          "orth": "u",
+          "ipa": "/u/",
+          "gloss": "he / she (3SG)",
+          "cite": "van Driem 1995"
+        },
+        {
+          "orth": "kī-bī",
+          "ipa": "/kiːbiː/",
+          "gloss": "we (1PL)",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "-kē",
+          "ipa": "/-keː/",
+          "gloss": "dative / object marker",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "-tā",
+          "ipa": "/-t̪aː/",
+          "gloss": "locative ('in, at')",
+          "cite": "Basumatary 2014"
+        }
+      ],
+      "quiz": {
+        "q": "What are the Toto first-person ('I') and second-person ('you') singular pronouns?",
+        "a": "ka (/ka/, 'I') and na (/na/, 'you')."
+      }
+    },
+    {
+      "title": "Lesson 2: Basic Nouns & Numerals",
+      "intro": "Tibeto-Burman lexical cognates preserved in Toto.<sup>[2][3]</sup>",
+      "vocab": [
+        {
+          "orth": "tī",
+          "ipa": "/t̪iː/",
+          "gloss": "water (PTB *tiy)",
+          "cite": "van Driem 1995"
+        },
+        {
+          "orth": "mē",
+          "ipa": "/meː/",
+          "gloss": "fire (PTB *mey)",
+          "cite": "van Driem 1995"
+        },
+        {
+          "orth": "sāni",
+          "ipa": "/saːni/",
+          "gloss": "sun / day",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "tāri",
+          "ipa": "/t̪aːri/",
+          "gloss": "moon",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "shīng",
+          "ipa": "/ʃiːŋ/",
+          "gloss": "tree / wood (PTB *siŋ)",
+          "cite": "van Driem 1995"
+        },
+        {
+          "orth": "īccō",
+          "ipa": "/iːtʃoː/",
+          "gloss": "one (1)",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "nīshō",
+          "ipa": "/niːʃoː/",
+          "gloss": "two (2)",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "sung",
+          "ipa": "/suŋ/",
+          "gloss": "three (3)",
+          "cite": "Basumatary 2014"
+        }
+      ],
+      "quiz": {
+        "q": "Which Toto nouns reflect Proto-Tibeto-Burman *tiy ('water') and *siŋ ('tree/wood')?",
+        "a": "tī (/t̪iː/, 'water') and shīng (/ʃiːŋ/, 'tree/wood')."
+      }
+    },
+    {
+      "title": "Lesson 3: Everyday Verbs",
+      "intro": "Core action verbs and aspect markers.<sup>[2][3]</sup>",
+      "vocab": [
+        {
+          "orth": "chā-",
+          "ipa": "/tʃaː-/",
+          "gloss": "to eat",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "tūng-",
+          "ipa": "/t̪uːŋ-/",
+          "gloss": "to drink",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "hā-",
+          "ipa": "/haː-/",
+          "gloss": "to go",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "lē-",
+          "ipa": "/leː-/",
+          "gloss": "to come",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "-ro",
+          "ipa": "/-ro/",
+          "gloss": "present/progressive suffix",
+          "cite": "Basumatary 2014"
+        },
+        {
+          "orth": "-mi",
+          "ipa": "/-mi/",
+          "gloss": "declarative past suffix",
+          "cite": "Basumatary 2014"
+        }
+      ],
+      "quiz": {
+        "q": "What are the Toto verb roots for 'to eat' and 'to drink'?",
+        "a": "chā- (/tʃaː-/, 'to eat') and tūng- (/t̪uːŋ-/, 'to drink')."
+      }
+    },
+    {
+      "title": "Lesson 4: Interlinear Glossed Sentences",
+      "intro": "SOV clause structure in Toto.<sup>[3]</sup>",
+      "igt": [
+        {
+          "words": [
+            "ka",
+            "tī",
+            "tūng-ro"
+          ],
+          "morphs": [
+            "1SG",
+            "water",
+            "drink-PRS"
+          ],
+          "trans": "'I am drinking water.' (Basumatary 2014)"
+        },
+        {
+          "words": [
+            "u",
+            "shā-tā",
+            "hā-mi"
+          ],
+          "morphs": [
+            "3SG",
+            "house-LOC",
+            "go-PST"
+          ],
+          "trans": "'He/she went to the house.' (Basumatary 2014)"
+        }
+      ],
+      "quiz": {
+        "q": "What is the function of -tā in shā-tā?",
+        "a": "Locative postposition ('in / to the house')."
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Chaudhuri, Tapas Kumar (1993). <i>The Toto: A Sub-Himalayan Tribe</i>. Calcutta: Academic Publishers.",
+      "url": "https://www.worldcat.org/oclc/31900984",
+      "label": "WorldCat OCLC"
+    },
+    {
+      "id": 2,
+      "text": "van Driem, George (2001). <i>Languages of the Himalayas: An Ethnolinguistic Handbook of the Greater Himalayan Region</i>. Leiden: Brill. pp. 559–567.",
+      "url": "https://doi.org/10.1163/9789004492530",
+      "label": "DOI: 10.1163/9789004492530"
+    },
+    {
+      "id": 3,
+      "text": "Basumatary, Chittaranjan (2014). <i>Toto Phonology and Morphology</i>. Tezpur University / SPPEL CIIL Mysuru.",
+      "url": "https://www.sppel.org/",
+      "label": "SPPEL Archive"
+    },
+    {
+      "id": 4,
+      "text": "Anderson, Deborah (2019). 'Proposal for encoding the Toto script in the SMP of the UCS' (ISO/IEC JTC1/SC2/WG2 N5141, L2/19-330).",
+      "url": "https://www.unicode.org/L2/L2019/19330-toto-script.pdf",
+      "label": "Unicode L2/19-330"
+    }
+  ]
+}

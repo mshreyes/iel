@@ -1,0 +1,243 @@
+{
+  "id": "aka-jeru",
+  "name": "Great Andamanese (Jeru)",
+  "native": "Jero / Khora",
+  "iso": "akj",
+  "glotto": "akaj1239",
+  "qid": "Q56627",
+  "family": "Great Andamanese",
+  "subfamily": "Northern Great Andamanese",
+  "state": "Andaman & Nicobar Islands (Strait Island)",
+  "coords": "12.92°N, 92.90°E",
+  "pop": "3–5 semi-speakers / rememberers (2020)",
+  "status": "Critically Endangered",
+  "script": "Devanagari and IPA (documented by Anvita Abbi)",
+  "wordOrder": "SOV (Subject–Object–Verb)",
+  "morphology": "Polysynthetic, somatic body-part prefixing",
+  "lead": "<b>Present-day Great Andamanese</b> (based primarily on <b>Aka-Jeru</b>, with lexical elements from <i>Khora</i>, <i>Sare</i>, and <i>Bo</i>) is a Critically Endangered language of the Great Andamanese family spoken on Strait Island in the Andaman and Nicobar Islands, India.<sup>[1][2]</sup> Documented extensively by Anvita Abbi between 2001 and 2013, the language is typologically notable for its obligatory somatic (body-division) prefixation system across nouns, verbs, and adjectives.<sup>[1][2]</sup>",
+  "history": "<p>Prior to the establishment of the British penal colony in 1858, ten distinct Great Andamanese languages formed a dialect continuum from North to South Andaman.<sup>[1]</sup> Epidemic diseases and demographic collapse reduced the population from an estimated 5,000 in 1858 to 19 individuals by 1961.<sup>[1]</sup> In 1970, the Indian administration relocated the surviving community to Strait Island.<sup>[1]</sup></p><p>The last speaker of the Bo variety (Boa Sr.) died in January 2010, and the last fluent speaker of the Jeru/Khora koiné, Licho, died in April 2020, leaving a handful of semi-speakers whose heritage is preserved in the Endangered Languages Archive (ELAR).<sup>[3]</sup></p>",
+  "phonology": "<p>Great Andamanese has a seven-vowel system (<code>/i, e, ɛ, a, ɔ, o, u/</code>) and a consonant inventory featuring bilabial, dental, alveolar, retroflex, palatal, and velar stops, including a bilabial fricative <code>/ɸ/</code> and palatal/velar nasals <code>/ɲ, ŋ/</code>.<sup>[1][2]</sup></p>",
+  "consonants": [
+    [
+      "Stop",
+      "p, pʰ, b",
+      "t̪, t̪ʰ, d̪",
+      "ʈ, ʈʰ, ɖ",
+      "tʃ, tʃʰ, dʒ",
+      "k, kʰ, g"
+    ],
+    [
+      "Fricative",
+      "ɸ",
+      "s",
+      "ʃ",
+      "",
+      "h"
+    ],
+    [
+      "Nasal",
+      "m",
+      "n",
+      "",
+      "ɲ",
+      "ŋ"
+    ],
+    [
+      "Liquid / Glide",
+      "w",
+      "l, r",
+      "ɭ",
+      "j",
+      ""
+    ]
+  ],
+  "syntax": "<p>A defining grammatical feature of Great Andamanese is its seven-zone somatic body-division prefix system: inalienable body parts, relational nouns, adjectives, and transitive verbs must carry a proclitic marker specifying which somatic zone is involved (e.g., <code>er-</code> for head/eyes/upper body, <code>ut-/ot-</code> for neck/round parts, <code>oŋ-</code> for hands/feet/extremities, <code>a-</code> for mouth/origin).<sup>[1][2]</sup></p>",
+  "lessons": [
+    {
+      "title": "Lesson 1: Pronominal Proclitics & Body-Zone Prefixes",
+      "intro": "Possessor proclitics combine directly with somatic zone prefixes before nominal and verbal stems (Abbi 2013: 68–95).<sup>[2]</sup>",
+      "vocab": [
+        {
+          "orth": "t- / thu",
+          "ipa": "/t̪-/",
+          "gloss": "I / my (1SG proclitic)",
+          "cite": "Abbi 2013: 70"
+        },
+        {
+          "orth": "m- / mi",
+          "ipa": "/m-/",
+          "gloss": "we / our (1PL proclitic)",
+          "cite": "Abbi 2013: 70"
+        },
+        {
+          "orth": "ng- / ngi",
+          "ipa": "/ŋ-/",
+          "gloss": "you / your (2SG proclitic)",
+          "cite": "Abbi 2013: 70"
+        },
+        {
+          "orth": "er-",
+          "ipa": "/er-/",
+          "gloss": "Class 2 somatic prefix (head, face, upper external body)",
+          "cite": "Abbi 2013: 79"
+        },
+        {
+          "orth": "oŋ-",
+          "ipa": "/oŋ-/",
+          "gloss": "Class 4 somatic prefix (hand, foot, extremities)",
+          "cite": "Abbi 2013: 81"
+        },
+        {
+          "orth": "a-",
+          "ipa": "/a-/",
+          "gloss": "Class 1 somatic prefix (mouth, tongue, origin)",
+          "cite": "Abbi 2013: 77"
+        }
+      ],
+      "quiz": {
+        "q": "Which somatic prefix attaches to nouns associated with the hands, feet, and extremities?",
+        "a": "oŋ- (/oŋ-/, Class 4 somatic zone prefix)."
+      }
+    },
+    {
+      "title": "Lesson 2: Inalienable Body Terms & Ecology",
+      "intro": "Body-part nouns cited with first-person singular possessor t- + somatic class marker (Abbi 2012).<sup>[1]</sup>",
+      "vocab": [
+        {
+          "orth": "t-er-cho",
+          "ipa": "/t̪ertʃo/",
+          "gloss": "my head (1SG-CL2-head)",
+          "cite": "Abbi 2012: 45"
+        },
+        {
+          "orth": "t-er-ulu",
+          "ipa": "/t̪erulu/",
+          "gloss": "my eye (1SG-CL2-eye)",
+          "cite": "Abbi 2012: 62"
+        },
+        {
+          "orth": "t-oŋ-kora",
+          "ipa": "/t̪oŋkora/",
+          "gloss": "my hand (1SG-CL4-hand)",
+          "cite": "Abbi 2012: 112"
+        },
+        {
+          "orth": "t-a-phòng",
+          "ipa": "/t̪apʰɔŋ/",
+          "gloss": "my mouth (1SG-CL1-mouth)",
+          "cite": "Abbi 2012: 140"
+        },
+        {
+          "orth": "ino",
+          "ipa": "/ino/",
+          "gloss": "water",
+          "cite": "Abbi 2012: 98"
+        },
+        {
+          "orth": "at",
+          "ipa": "/at̪/",
+          "gloss": "fire",
+          "cite": "Abbi 2012: 33"
+        }
+      ],
+      "quiz": {
+        "q": "Deconstruct the morphological structure of t-er-ulu ('my eye').",
+        "a": "t- (1SG possessor) + er- (Class 2 upper-body somatic zone prefix) + ulu ('eye')."
+      }
+    },
+    {
+      "title": "Lesson 3: Verbs & Tense-Aspect-Mood Suffixes",
+      "intro": "Verbal roots and TAM suffixes from Abbi (2013: 185–210).<sup>[2]</sup>",
+      "vocab": [
+        {
+          "orth": "ijhu-",
+          "ipa": "/idʒʰu-/",
+          "gloss": "to drink / eat",
+          "cite": "Abbi 2013: 190"
+        },
+        {
+          "orth": "kone-",
+          "ipa": "/kone-/",
+          "gloss": "to go",
+          "cite": "Abbi 2013: 192"
+        },
+        {
+          "orth": "une-",
+          "ipa": "/une-/",
+          "gloss": "to come / sit",
+          "cite": "Abbi 2013: 194"
+        },
+        {
+          "orth": "-b",
+          "ipa": "/-b/",
+          "gloss": "non-past / habitual suffix",
+          "cite": "Abbi 2013: 201"
+        },
+        {
+          "orth": "-om",
+          "ipa": "/-om/",
+          "gloss": "past / completive suffix",
+          "cite": "Abbi 2013: 203"
+        }
+      ],
+      "quiz": {
+        "q": "Which suffix marks past/completive aspect on Great Andamanese verbs?",
+        "a": "-om (/om/)."
+      }
+    },
+    {
+      "title": "Lesson 4: Interlinear Glossed Sentences",
+      "intro": "Polysynthetic clause structure from Abbi (2013).<sup>[2]</sup>",
+      "igt": [
+        {
+          "words": [
+            "thu",
+            "ino",
+            "ijhu-om"
+          ],
+          "morphs": [
+            "1SG",
+            "water",
+            "drink-PST"
+          ],
+          "trans": "'I drank water.' (Abbi 2013)"
+        },
+        {
+          "words": [
+            "ng-oŋ-kora",
+            "er-bùng-b"
+          ],
+          "morphs": [
+            "2SG-CL4-hand",
+            "CL2-good-NPST"
+          ],
+          "trans": "'Your hand is strong/good.' (Abbi 2013)"
+        }
+      ],
+      "quiz": {
+        "q": "Why does the adjective bùng ('good/beautiful') carry the prefix er-?",
+        "a": "Descriptive predicates take somatic zone prefixes indexing the external appearance or body part of the referent."
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Abbi, Anvita (2012). <i>Dictionary of the Great Andamanese Language: English – Great Andamanese – Hindi</i>. Delhi: Ratna Sagar.",
+      "url": "https://www.worldcat.org/oclc/794322577",
+      "label": "WorldCat OCLC"
+    },
+    {
+      "id": 2,
+      "text": "Abbi, Anvita (2013). <i>A Grammar of the Great Andamanese Language: An Ethnolinguistic Study</i>. Brill's Tibetan Studies Library / Languages of the Greater Himalayan Region. Leiden: Brill.",
+      "url": "https://doi.org/10.1163/9789004246126",
+      "label": "DOI: 10.1163/9789004246126"
+    },
+    {
+      "id": 3,
+      "text": "Abbi, Anvita (2006–2012). 'Vanishing Voices of the Great Andamanese (VOGA)'. Endangered Languages Archive (ELAR), Deposit dk0157.",
+      "url": "https://www.elararchive.org/dk0157/",
+      "label": "ELAR Archive dk0157"
+    }
+  ]
+}

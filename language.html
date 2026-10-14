@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Language Article — IEL Encyclopedia</title>
+  <meta name="description" content="Encyclopedia article, phonological inventory, interlinear glossed sentences, and introductory course for an endangered Indian language." />
+  <link rel="canonical" href="https://<username>.github.io/iel/language.html" />
+
+  <script id="fair-jsonld" type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "@id": "https://<username>.github.io/iel/#dataset",
+    "name": "IEL — Encyclopedia of Indian Endangered Languages",
+    "url": "https://<username>.github.io/iel/",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "isAccessibleForFree": true
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Top Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand-group" href="index.html">
+        <span class="brand-mark">IEL</span>
+        <span class="brand-divider">|</span>
+        <span class="brand-tagline">Encyclopedia of Indian Endangered Languages</span>
+      </a>
+
+      <div class="header-controls">
+        <div class="search-box">
+          <input type="search" id="global-search" class="search-input" placeholder="Search 42 languages, ISO, Glottocode..." autocomplete="off" />
+          <span class="search-kbd">/</span>
+          <div id="search-dropdown" class="search-dropdown"></div>
+        </div>
+        <button class="btn-ui" id="theme-toggle" title="Toggle light/dark mode">
+          <span id="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Detached Vector 2022 Workspace -->
+  <div class="workspace">
+
+    <!-- Detached Left Floating Sidebar -->
+    <aside class="detached-sidebar" aria-label="Article Contents and Navigation">
+      <div class="sidebar-section">
+        <div class="sidebar-heading">Navigation</div>
+        <ul class="sidebar-nav">
+          <li><a class="sidebar-link" href="index.html">← Index of Languages (42)</a></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-heading">Contents</div>
+        <ul class="sidebar-nav" id="sidebar-toc"></ul>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-heading">Complete Articles (6)</div>
+        <ul class="sidebar-nav">
+          <li><a class="sidebar-link" href="language.html?id=toda"><span>Toda</span><span class="code-id">tcx</span></a></li>
+          <li><a class="sidebar-link" href="language.html?id=kota"><span>Kota</span><span class="code-id">kfe</span></a></li>
+          <li><a class="sidebar-link" href="language.html?id=toto"><span>Toto</span><span class="code-id">txo</span></a></li>
+          <li><a class="sidebar-link" href="language.html?id=aka-jeru"><span>Great Andamanese</span><span class="code-id">akj</span></a></li>
+          <li><a class="sidebar-link" href="language.html?id=nihali"><span>Nihali</span><span class="code-id">nll</span></a></li>
+          <li><a class="sidebar-link" href="language.html?id=birhor"><span>Birhor</span><span class="code-id">biy</span></a></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-heading">All 42 Entries</div>
+        <select class="sidebar-select" id="sidebar-jump" aria-label="Select any language entry">
+          <option value="">Jump to language...</option>
+        </select>
+      </div>
+    </aside>
+
+    <!-- Main Article Sheet -->
+    <main class="main-sheet" id="article-mount">
+      <p style="color:var(--text-muted);">Loading article...</p>
+    </main>
+  </div>
+
+  <!-- Hover Reference Tooltip -->
+  <div id="cite-tooltip" class="cite-tooltip"></div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div>
+      <strong>IEL</strong> — Encyclopedia of Indian Endangered Languages · <a class="ext-link" href="https://<username>.github.io/iel/" target="_blank" rel="noopener">https://&lt;username&gt;.github.io/iel/</a> · Text and datasets licensed under <a class="ext-link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>.
+    </div>
+    <div class="footer-links">
+      <button class="footer-link" onclick="openModal('about')">About &amp; Methodology</button>
+      <button class="footer-link" onclick="openModal('archives')">External Archives</button>
+      <button class="footer-link" onclick="openModal('cite-curr')">Cite / BibTeX</button>
+      <button class="footer-link" onclick="exportCurrentJSON()">Download Entry (JSON)</button>
+    </div>
+  </footer>
+
+  <!-- Modal -->
+  <div id="modal-backdrop" class="modal-backdrop" onclick="closeModal(event)">
+    <div class="modal-card" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h2 class="modal-title" id="modal-title">Information</h2>
+        <button class="btn-ui" onclick="closeModal()">Close</button>
+      </div>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

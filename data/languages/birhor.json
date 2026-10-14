@@ -1,0 +1,269 @@
+{
+  "id": "birhor",
+  "name": "Birhor",
+  "native": "Biṛhōṛ",
+  "iso": "biy",
+  "glotto": "birh1242",
+  "qid": "Q34984",
+  "family": "Austroasiatic",
+  "subfamily": "North Munda (Kherwarian)",
+  "state": "Jharkhand, Odisha, Chhattisgarh",
+  "coords": "23.99°N, 85.36°E",
+  "pop": "~2,000 speakers (ethnic pop. ~17,000)",
+  "status": "Critically Endangered",
+  "script": "Devanagari, Odia, Latin",
+  "wordOrder": "SOV (Subject–Object–Verb)",
+  "morphology": "Polysynthetic, subject/object indexing on verb/auxiliary",
+  "lead": "<b>Birhor</b> (from Kherwarian <i>bir</i> 'forest' + <i>hōṛ</i> 'person/man') is a Critically Endangered North Munda (Austroasiatic) language spoken by the traditionally semi-nomadic Birhor community across the Chota Nagpur Plateau in Jharkhand, northern Odisha, and Chhattisgarh.<sup>[1][2]</sup> Within the Kherwarian branch, it is closely related to Mundari, Ho, and Santali.<sup>[1]</sup>",
+  "history": "<p>The Birhor community historically comprised two socio-ecological groups: the <i>Uthlu</i> (nomadic hunter-gatherers specializing in monkey-trapping and making <i>chēp</i> rope from bauhinia creeper bark) and the <i>Jaghi</i> (semi-settled cultivators).<sup>[1][2]</sup> Although the 2011 Census recorded roughly 17,000 ethnic Birhors, active mother-tongue transmission is restricted to fewer than 2,000 speakers due to shift toward Sadri (Nagpuri), Hindi, and Odia.<sup>[1][2]</sup></p>",
+  "phonology": "<p>Like other Kherwarian languages, Birhor exhibits preglottalized/checked word-final stops (<code>/p̚, t̚, c̚, k̚/</code>, realized with glottal closure before pause and voiced intervocalically), a retroflex series (<code>/ʈ, ɖ, ɽ/</code>), and five core vowels (<code>/i, e, a, o, u/</code>).<sup>[1][2]</sup></p>",
+  "consonants": [
+    [
+      "Stop (Voiceless)",
+      "p, pʰ",
+      "t̪, t̪ʰ",
+      "ʈ, ʈʰ",
+      "tʃ, tʃʰ",
+      "k, kʰ"
+    ],
+    [
+      "Stop (Voiced/Checked)",
+      "b, bʔ",
+      "d̪, d̪ʔ",
+      "ɖ, ɖʰ",
+      "dʒ, dʒʔ",
+      "g, gʔ"
+    ],
+    [
+      "Fricative / Nasal",
+      "m",
+      "n, s",
+      "ɳ",
+      "ɲ",
+      "ŋ, h"
+    ],
+    [
+      "Liquid / Glide",
+      "w",
+      "l, r",
+      "ɽ",
+      "j",
+      ""
+    ]
+  ],
+  "syntax": "<p>Birhor has a complex polysynthetic verbal template: <code>Verb Stem + Aspect/Valency + Transitivity/Object Marker + Finite Copula (-a) + Subject Enclitic</code>.<sup>[1][2]</sup> Nouns distinguish animate and inanimate gender, which controls pronominal agreement on the verb complex.<sup>[1]</sup></p>",
+  "lessons": [
+    {
+      "title": "Lesson 1: 11-Pronoun Number & Inclusivity System",
+      "intro": "Birhor distinguishes singular, dual, and plural numbers, plus inclusive and exclusive first-person forms (Anderson 2008: 199–205; Jora 2016).<sup>[1][2]</sup>",
+      "vocab": [
+        {
+          "orth": "iñ",
+          "ipa": "/iɲ/",
+          "gloss": "I (1SG)",
+          "cite": "Anderson 2008: 201"
+        },
+        {
+          "orth": "alaṅ",
+          "ipa": "/alaŋ/",
+          "gloss": "we two (1DU.INCL)",
+          "cite": "Anderson 2008: 201"
+        },
+        {
+          "orth": "aliñ",
+          "ipa": "/aliɲ/",
+          "gloss": "we two (1DU.EXCL)",
+          "cite": "Anderson 2008: 201"
+        },
+        {
+          "orth": "abu",
+          "ipa": "/abu/",
+          "gloss": "we all (1PL.INCL)",
+          "cite": "Anderson 2008: 201"
+        },
+        {
+          "orth": "ale",
+          "ipa": "/ale/",
+          "gloss": "we all (1PL.EXCL)",
+          "cite": "Anderson 2008: 201"
+        },
+        {
+          "orth": "am",
+          "ipa": "/am/",
+          "gloss": "you (2SG)",
+          "cite": "Anderson 2008: 201"
+        },
+        {
+          "orth": "iniʔ",
+          "ipa": "/iniʔ/",
+          "gloss": "he / she (3SG.ANIM)",
+          "cite": "Jora 2016"
+        }
+      ],
+      "quiz": {
+        "q": "How does Birhor distinguish 'you and I (dual inclusive)' from 'someone else and I (dual exclusive)'?",
+        "a": "alaṅ (/alaŋ/, 1DU.INCL) versus aliñ (/aliɲ/, 1DU.EXCL)."
+      }
+    },
+    {
+      "title": "Lesson 2: Austroasiatic Core Vocabulary",
+      "intro": "Kherwarian/Munda roots in Birhor (Anderson 2008; Jora 2016).<sup>[1][2]</sup>",
+      "vocab": [
+        {
+          "orth": "daʔ",
+          "ipa": "/d̪aʔ/",
+          "gloss": "water (Proto-Munda *daʔ)",
+          "cite": "Anderson 2008"
+        },
+        {
+          "orth": "sengel",
+          "ipa": "/seŋgel/",
+          "gloss": "fire",
+          "cite": "Jora 2016"
+        },
+        {
+          "orth": "bir",
+          "ipa": "/bir/",
+          "gloss": "forest / jungle",
+          "cite": "Jora 2016"
+        },
+        {
+          "orth": "hōṛ",
+          "ipa": "/hoːɽ/",
+          "gloss": "person / man",
+          "cite": "Jora 2016"
+        },
+        {
+          "orth": "met̚",
+          "ipa": "/met̚/",
+          "gloss": "eye",
+          "cite": "Anderson 2008"
+        },
+        {
+          "orth": "tiʔ",
+          "ipa": "/t̪iʔ/",
+          "gloss": "hand",
+          "cite": "Anderson 2008"
+        },
+        {
+          "orth": "miyat̚",
+          "ipa": "/mijat̚/",
+          "gloss": "one (1)",
+          "cite": "Jora 2016"
+        },
+        {
+          "orth": "bariya",
+          "ipa": "/barija/",
+          "gloss": "two (2)",
+          "cite": "Jora 2016"
+        }
+      ],
+      "quiz": {
+        "q": "What is the literal etymology of the ethnonym Birhor?",
+        "a": "bir ('forest') + hōṛ ('person/human') = 'forest person'."
+      }
+    },
+    {
+      "title": "Lesson 3: Verbal Roots & Finite Marker -a",
+      "intro": "Declarative finite clauses require the finitizer suffix -a before or after the subject enclitic.<sup>[1][2]</sup>",
+      "vocab": [
+        {
+          "orth": "jom-",
+          "ipa": "/dʒom-/",
+          "gloss": "to eat",
+          "cite": "Anderson 2008: 215"
+        },
+        {
+          "orth": "nū-",
+          "ipa": "/nuː-/",
+          "gloss": "to drink",
+          "cite": "Anderson 2008: 216"
+        },
+        {
+          "orth": "sen-",
+          "ipa": "/sen-/",
+          "gloss": "to go",
+          "cite": "Anderson 2008: 218"
+        },
+        {
+          "orth": "hij-",
+          "ipa": "/hidʒ-/",
+          "gloss": "to come",
+          "cite": "Anderson 2008: 218"
+        },
+        {
+          "orth": "-ket̚- / -ked-",
+          "ipa": "/-ket̚-/",
+          "gloss": "transitive past suffix",
+          "cite": "Anderson 2008: 222"
+        },
+        {
+          "orth": "-en-",
+          "ipa": "/-en-/",
+          "gloss": "intransitive past suffix",
+          "cite": "Anderson 2008: 222"
+        }
+      ],
+      "quiz": {
+        "q": "How does Birhor distinguish transitive past from intransitive past on the verb?",
+        "a": "Transitive verbs take -ket̚-/-ked-, whereas intransitive verbs take -en-/-yan-."
+      }
+    },
+    {
+      "title": "Lesson 4: Interlinear Glossed Sentences",
+      "intro": "Polysynthetic verbal indexing from Anderson (2008) and Jora (2016).<sup>[1][2]</sup>",
+      "igt": [
+        {
+          "words": [
+            "iñ",
+            "daʔ",
+            "nū-ket̚-a-ñ"
+          ],
+          "morphs": [
+            "1SG",
+            "water",
+            "drink-TR.PST-FIN-1SG.SBJ"
+          ],
+          "trans": "'I drank water.' (Anderson 2008)"
+        },
+        {
+          "words": [
+            "hōṛ",
+            "bir-te",
+            "sen-en-a-e"
+          ],
+          "morphs": [
+            "person",
+            "forest-ALL",
+            "go-INTR.PST-FIN-3SG.SBJ"
+          ],
+          "trans": "'The man went to the forest.' (Jora 2016)"
+        }
+      ],
+      "quiz": {
+        "q": "What is the role of the final -ñ in nū-ket̚-a-ñ?",
+        "a": "First-person singular subject enclitic (-ñ < iñ) attached after the finite marker -a."
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Anderson, Gregory D. S., ed. (2008). <i>The Munda Languages</i>. Routledge Language Family Series. London & New York: Routledge. pp. 195–255.",
+      "url": "https://doi.org/10.4324/9781315822433",
+      "label": "DOI: 10.4324/9781315822433"
+    },
+    {
+      "id": 2,
+      "text": "Jora, Bikram (2016). 'Aspects of Birhor Phonology and Morphology'. Living Tongues Institute for Endangered Languages / SPPEL.",
+      "url": "https://www.sppel.org/",
+      "label": "SPPEL Archive"
+    },
+    {
+      "id": 3,
+      "text": "Roy, Sarat Chandra (1925). <i>The Birhors: A Little-Known Jungle Tribe of Chota Nagpur</i>. Ranchi: Man in India Office.",
+      "url": "https://archive.org/details/in.ernet.dli.2015.35867",
+      "label": "Internet Archive"
+    }
+  ]
+}
