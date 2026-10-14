@@ -1,4 +1,4 @@
-# IEL — Encyclopedia of Indian Endangered Languages
+# IEL - Encyclopedia of Indian Endangered Languages
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ELP](https://img.shields.io/badge/ELP-Endangered_Languages_Project-blue.svg)](https://endangeredlanguages.com/)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-**IEL (Encyclopedia of Indian Endangered Languages)** is a static reference encyclopedia and introductory course repository covering the **42 Critically Endangered languages of India** identified by the Ministry of Education, Government of India ([PIB Release ID: 108207](https://pib.gov.in/newsite/printrelease.aspx?relid=108207)) and the [UNESCO *Atlas of the World's Languages in Danger*](https://unesdoc.unesco.org/ark:/48223/pf0000187026).
+**IEL (Encyclopedia of Indian Endangered Languages)** is a reference encyclopedia and introductory course repository covering the **42 Critically Endangered languages of India** identified by the Ministry of Education, Government of India ([PIB Release ID: 108207](https://pib.gov.in/newsite/printrelease.aspx?relid=108207)) and the [UNESCO *Atlas of the World's Languages in Danger*](https://unesdoc.unesco.org/ark:/48223/pf0000187026).
 
 ### Key Features
 - **Detached Vector 2022 Encyclopedia UI**: Minimalist academic layout with light/dark mode, instant keyboard search (`/`), multi-criteria filtering (by State/UT and Entry Status), right-aligned infoboxes, and hover reference cards.
