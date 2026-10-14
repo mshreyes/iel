@@ -3,10 +3,8 @@
   "name": "Birhor",
   "native": "Biṛhōṛ",
   "iso": "biy",
-  "glotto": "birh1242",
-  "qid": "Q34984",
-  "family": "Austroasiatic",
-  "subfamily": "North Munda (Kherwarian)",
+  "elpUrl": "https://endangeredlanguages.com/lang/search/#/?q=biy",
+  "elpLabel": "ELP (biy)",
   "state": "Jharkhand, Odisha, Chhattisgarh",
   "coords": "23.99°N, 85.36°E",
   "pop": "~2,000 speakers (ethnic pop. ~17,000)",
@@ -14,9 +12,9 @@
   "script": "Devanagari, Odia, Latin",
   "wordOrder": "SOV (Subject–Object–Verb)",
   "morphology": "Polysynthetic, subject/object indexing on verb/auxiliary",
-  "lead": "<b>Birhor</b> (from Kherwarian <i>bir</i> 'forest' + <i>hōṛ</i> 'person/man') is a Critically Endangered North Munda (Austroasiatic) language spoken by the traditionally semi-nomadic Birhor community across the Chota Nagpur Plateau in Jharkhand, northern Odisha, and Chhattisgarh.<sup>[1][2]</sup> Within the Kherwarian branch, it is closely related to Mundari, Ho, and Santali.<sup>[1]</sup>",
+  "lead": "<b>Birhor</b> (from <i>bir</i> 'forest' + <i>hōṛ</i> 'person/man') is a Critically Endangered language spoken by the traditionally semi-nomadic Birhor community across the Chota Nagpur Plateau in Jharkhand, northern Odisha, and Chhattisgarh.<sup>[1][2]</sup>",
   "history": "<p>The Birhor community historically comprised two socio-ecological groups: the <i>Uthlu</i> (nomadic hunter-gatherers specializing in monkey-trapping and making <i>chēp</i> rope from bauhinia creeper bark) and the <i>Jaghi</i> (semi-settled cultivators).<sup>[1][2]</sup> Although the 2011 Census recorded roughly 17,000 ethnic Birhors, active mother-tongue transmission is restricted to fewer than 2,000 speakers due to shift toward Sadri (Nagpuri), Hindi, and Odia.<sup>[1][2]</sup></p>",
-  "phonology": "<p>Like other Kherwarian languages, Birhor exhibits preglottalized/checked word-final stops (<code>/p̚, t̚, c̚, k̚/</code>, realized with glottal closure before pause and voiced intervocalically), a retroflex series (<code>/ʈ, ɖ, ɽ/</code>), and five core vowels (<code>/i, e, a, o, u/</code>).<sup>[1][2]</sup></p>",
+  "phonology": "<p>Birhor exhibits preglottalized/checked word-final stops (<code>/p̚, t̚, c̚, k̚/</code>, realized with glottal closure before pause and voiced intervocalically), a retroflex series (<code>/ʈ, ɖ, ɽ/</code>), and five core vowels (<code>/i, e, a, o, u/</code>).<sup>[1][2]</sup></p>",
   "consonants": [
     [
       "Stop (Voiceless)",
@@ -106,13 +104,13 @@
       }
     },
     {
-      "title": "Lesson 2: Austroasiatic Core Vocabulary",
-      "intro": "Kherwarian/Munda roots in Birhor (Anderson 2008; Jora 2016).<sup>[1][2]</sup>",
+      "title": "Lesson 2: Core Vocabulary",
+      "intro": "Core lexical roots in Birhor (Anderson 2008; Jora 2016).<sup>[1][2]</sup>",
       "vocab": [
         {
           "orth": "daʔ",
           "ipa": "/d̪aʔ/",
-          "gloss": "water (Proto-Munda *daʔ)",
+          "gloss": "water",
           "cite": "Anderson 2008"
         },
         {

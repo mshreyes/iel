@@ -3,10 +3,8 @@
   "name": "Kota",
   "native": "Kōv Māt",
   "iso": "kfe",
-  "glotto": "kota1263",
-  "qid": "Q33484",
-  "family": "Dravidian",
-  "subfamily": "South Dravidian I (Tamil–Kannada)",
+  "elpUrl": "https://endangeredlanguages.com/lang/search/#/?q=kfe",
+  "elpLabel": "ELP (kfe)",
   "state": "Tamil Nadu (Nilgiri District)",
   "coords": "11.42°N, 76.86°E",
   "pop": "~930 (2011 estimate)",
@@ -14,7 +12,7 @@
   "script": "Tamil script; Latin/IPA in academic literature",
   "wordOrder": "SOV (Subject–Object–Verb)",
   "morphology": "Agglutinative, suffixing",
-  "lead": "<b>Kota</b> (endonym: <i>Kōv Māt</i>) is a Critically Endangered South Dravidian language spoken by the indigenous Kota community across seven settlements (<i>kōkāl</i>) in the Nilgiri Hills of Tamil Nadu, India.<sup>[1][2]</sup> Together with Toda, it forms the Toda–Kota subgroup of South Dravidian.<sup>[3]</sup>",
+  "lead": "<b>Kota</b> (endonym: <i>Kōv Māt</i>) is a Critically Endangered language spoken by the indigenous Kota community across seven settlements (<i>kōkāl</i>) in the Nilgiri Hills of Tamil Nadu, India.<sup>[1][2][3]</sup>",
   "history": "<p>The Kota community historically inhabited seven villages in the Nilgiri plateau—including Kollimalai, Porthimund, Kotagiri (Aggal), Kil-Kotagiri, Trichigadi, Sholur, and Gudalur—functioning traditionally as blacksmiths, potters, carpenters, and ceremonial musicians within the Nilgiri inter-tribal system.<sup>[1][4]</sup></p><p>M. B. Emeneau published a four-volume collection of Kota narratives and a grammatical sketch between 1944 and 1946.<sup>[1]</sup> The speaker population resides in seven villages and numbers under 1,000 individuals, placing Kota in UNESCO's Critically Endangered category.<sup>[2]</sup></p>",
   "phonology": "<p>Kota retains a five-vowel quality system (<code>/i, e, a, o, u/</code>) with phonemic vowel length (10 vowels total).<sup>[1][3]</sup> Unlike Toda, Kota did not develop front rounded vowels, though it experienced unaccented vowel syncope that created dense consonant clusters.<sup>[3]</sup> Its consonant system contrasts dental, alveolar, and retroflex stops (<code>/t̪, d̪/</code>, <code>/t, d/</code>, <code>/ʈ, ɖ/</code>).<sup>[1]</sup></p>",
   "consonants": [
@@ -126,7 +124,7 @@
     },
     {
       "title": "Lesson 2: Basic Nouns & Numerals",
-      "intro": "Core nouns demonstrating syncope of second-syllable vowels compared to Proto-Dravidian.<sup>[3][5]</sup>",
+      "intro": "Core nouns demonstrating syncope of second-syllable vowels.<sup>[3][5]</sup>",
       "vocab": [
         {
           "orth": "nīr",
@@ -178,7 +176,7 @@
         }
       ],
       "quiz": {
-        "q": "What phonological change does Kota marm ('tree') show relative to Proto-Dravidian *maram?",
+        "q": "What phonological change does Kota marm ('tree') show relative to *maram?",
         "a": "Loss (syncope) of the unaccented second-syllable short vowel /a/."
       }
     },

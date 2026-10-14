@@ -27,7 +27,6 @@
 </head>
 <body>
 
-  <!-- Top Header -->
   <header class="site-header">
     <div class="header-inner">
       <a class="brand-group" href="index.html">
@@ -38,7 +37,7 @@
 
       <div class="header-controls">
         <div class="search-box">
-          <input type="search" id="global-search" class="search-input" placeholder="Search 42 languages, ISO, family, state..." autocomplete="off" />
+          <input type="search" id="global-search" class="search-input" placeholder="Search 42 languages, ISO, region..." autocomplete="off" />
           <span class="search-kbd">/</span>
           <div id="search-dropdown" class="search-dropdown"></div>
         </div>
@@ -49,10 +48,7 @@
     </div>
   </header>
 
-  <!-- Detached Vector 2022 Workspace -->
   <div class="workspace">
-
-    <!-- Detached Left Floating Sidebar -->
     <aside class="detached-sidebar" aria-label="Encyclopedia Navigation">
       <div class="sidebar-section">
         <div class="sidebar-heading">Navigation</div>
@@ -81,7 +77,6 @@
       </div>
     </aside>
 
-    <!-- Main Content Sheet -->
     <main class="main-sheet">
       <div class="page-top-bar">
         <h1 class="page-title">Critically Endangered Languages of India</h1>
@@ -97,14 +92,7 @@
         <span>Identifiers: <a class="ext-link" href="https://iso639-3.sil.org/" target="_blank" rel="noopener">ISO 639-3</a> · <a class="ext-link" href="https://endangeredlanguages.com/" target="_blank" rel="noopener">Endangered Languages Project (ELP)</a></span>
       </div>
 
-      <!-- Filter Bar -->
       <div class="filter-bar">
-        <div class="filter-group">
-          <label class="filter-label" for="filter-family">Family:</label>
-          <select id="filter-family" class="filter-control">
-            <option value="ALL">All Families</option>
-          </select>
-        </div>
         <div class="filter-group">
           <label class="filter-label" for="filter-state">State / UT:</label>
           <select id="filter-state" class="filter-control">
@@ -123,7 +111,6 @@
           <label class="filter-label" for="sort-field">Sort:</label>
           <select id="sort-field" class="filter-control">
             <option value="name">Language (A–Z)</option>
-            <option value="family">Language Family</option>
             <option value="state">State / Region</option>
             <option value="iso">ISO 639-3</option>
           </select>
@@ -131,18 +118,16 @@
         <span class="filter-count" id="filter-count">42 of 42</span>
       </div>
 
-      <!-- Master Catalog Table -->
       <div class="table-wrap">
         <table class="wikitable">
           <thead>
             <tr>
-              <th>Language</th>
-              <th>ISO 639-3</th>
-              <th>ELP Page</th>
-              <th>Language Family</th>
-              <th>State / Union Territory</th>
-              <th>Speaker Estimate</th>
-              <th>Documentation Status</th>
+              <th style="width: 24%;">Language</th>
+              <th style="width: 12%;">ISO 639-3</th>
+              <th style="width: 14%;">ELP Page</th>
+              <th style="width: 22%;">State / Region</th>
+              <th style="width: 14%;">Speaker Estimate</th>
+              <th style="width: 14%;">Documentation Status</th>
             </tr>
           </thead>
           <tbody id="catalog-tbody"></tbody>
@@ -151,7 +136,6 @@
     </main>
   </div>
 
-  <!-- Footer -->
   <footer class="site-footer">
     <div>
       <strong>IEL</strong> — Encyclopedia of Indian Endangered Languages · <a class="ext-link" href="https://mshreyes.github.io/iel/" target="_blank" rel="noopener">https://mshreyes.github.io/iel/</a> · Text and datasets licensed under <a class="ext-link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>.
@@ -164,7 +148,6 @@
     </div>
   </footer>
 
-  <!-- Modal -->
   <div id="modal-backdrop" class="modal-backdrop" onclick="closeModal(event)">
     <div class="modal-card" onclick="event.stopPropagation()">
       <div class="modal-header">

@@ -3,10 +3,8 @@
   "name": "Toto",
   "native": "Toto",
   "iso": "txo",
-  "glotto": "toto1304",
-  "qid": "Q36842",
-  "family": "Sino-Tibetan",
-  "subfamily": "Tibeto-Burman (Dhimalish)",
+  "elpUrl": "https://endangeredlanguages.com/lang/search/#/?q=txo",
+  "elpLabel": "ELP (txo)",
   "state": "West Bengal (Alipurduar District)",
   "coords": "26.83°N, 89.31°E",
   "pop": "1,632 (2021 tribal council register)",
@@ -14,7 +12,7 @@
   "script": "Toto script (Unicode U+1E290–U+1E2BF); Bengali; Latin",
   "wordOrder": "SOV (Subject–Object–Verb)",
   "morphology": "Agglutinative, ergative-absolutive / nominative",
-  "lead": "<b>Toto</b> is a Critically Endangered Sino-Tibetan (Tibeto-Burman) language spoken in the village of Totopara in Alipurduar district, West Bengal, along the India–Bhutan border.<sup>[1][2]</sup> Within Tibeto-Burman, George van Driem classifies Toto alongside Dhimal in the Dhimalish subgroup.<sup>[2]</sup>",
+  "lead": "<b>Toto</b> is a Critically Endangered language spoken in the village of Totopara in Alipurduar district, West Bengal, along the India–Bhutan border.<sup>[1][2]</sup>",
   "history": "<p>The Toto community resides in a single geographical enclave, Totopara, bordered by the Torsha River to the east and the foothills of Bhutan to the north.<sup>[1]</sup> Fieldwork by Amitabha Sengupta and Basanta Kumar Roy and later by George van Driem documented the grammar and lexicon.<sup>[1][2]</sup></p><p>In 2015, community elder and writer Dhaniram Toto developed an indigenous 31-letter alphabet for the language, which was encoded in The Unicode Standard (Version 14.0, block U+1E290–U+1E2BF) in 2021.<sup>[4]</sup> Despite community literacy initiatives, multi-lingual contact with Nepali and Bengali in Totopara has led to language shift among younger speakers.<sup>[3]</sup></p>",
   "phonology": "<p>Toto possesses six oral vowels (<code>/i, e, ə, a, o, u/</code>) and a phonemic glottal stop <code>/ʔ/</code>.<sup>[1][2]</sup> Its consonant inventory contrasts voiceless unaspirated, voiceless aspirated, and voiced stops across bilabial, dental/alveolar, palatal, and velar places of articulation, plus a series of voiced and voiceless nasals and liquids.<sup>[2]</sup></p>",
   "consonants": [
@@ -115,18 +113,18 @@
     },
     {
       "title": "Lesson 2: Basic Nouns & Numerals",
-      "intro": "Tibeto-Burman lexical cognates preserved in Toto.<sup>[2][3]</sup>",
+      "intro": "Core lexical items preserved in Toto.<sup>[2][3]</sup>",
       "vocab": [
         {
           "orth": "tī",
           "ipa": "/t̪iː/",
-          "gloss": "water (PTB *tiy)",
+          "gloss": "water",
           "cite": "van Driem 1995"
         },
         {
           "orth": "mē",
           "ipa": "/meː/",
-          "gloss": "fire (PTB *mey)",
+          "gloss": "fire",
           "cite": "van Driem 1995"
         },
         {
@@ -144,7 +142,7 @@
         {
           "orth": "shīng",
           "ipa": "/ʃiːŋ/",
-          "gloss": "tree / wood (PTB *siŋ)",
+          "gloss": "tree / wood",
           "cite": "van Driem 1995"
         },
         {
@@ -167,7 +165,7 @@
         }
       ],
       "quiz": {
-        "q": "Which Toto nouns reflect Proto-Tibeto-Burman *tiy ('water') and *siŋ ('tree/wood')?",
+        "q": "What are the Toto nouns for 'water' and 'tree/wood'?",
         "a": "tī (/t̪iː/, 'water') and shīng (/ʃiːŋ/, 'tree/wood')."
       }
     },

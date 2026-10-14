@@ -3,10 +3,8 @@
   "name": "Nihali (Kalto)",
   "native": "Kalto",
   "iso": "nll",
-  "glotto": "niha1238",
-  "qid": "Q33904",
-  "family": "Language Isolate",
-  "subfamily": "Isolate (Unclassified core lexicon)",
+  "elpUrl": "https://endangeredlanguages.com/elp-language/4879",
+  "elpLabel": "ELP #4879",
   "state": "Maharashtra (Buldhana) & Madhya Pradesh (Burhanpur)",
   "coords": "21.05°N, 76.53°E",
   "pop": "~2,000 (Nagaraja 2014)",
@@ -14,9 +12,9 @@
   "script": "Devanagari and IPA",
   "wordOrder": "SOV (Subject–Object–Verb)",
   "morphology": "Agglutinative, suffixing",
-  "lead": "<b>Nihali</b> (also called <b>Kalto</b> or <b>Nahali</b>) is a Critically Endangered language isolate spoken in the Buldhana district of Maharashtra and the adjoining East Nimar (Burhanpur) district of Madhya Pradesh along the Tapti River valley in central India.<sup>[1][2]</sup> Although it has absorbed heavy lexical borrowing from Korku (Austroasiatic), Dravidian, and Marathi/Hindi, roughly 25% to 35% of its core Swadesh vocabulary—including pronouns, anatomical terms, and basic verbs—has no established external cognates.<sup>[1][2]</sup>",
-  "history": "<p>Nihali speakers have lived for centuries in a symbiotic socioeconomic relationship with the neighboring Korku (North Munda) community in villages around Jamod in Jalgaon Jamod tehsil.<sup>[1][2]</sup> F. B. J. Kuiper (1962) and Norman Zide analyzed its multilayered lexicon, noting that Nihali speakers also used a specialized register as a secret argot.<sup>[1]</sup> K. S. Nagaraja published a comprehensive descriptive grammar and lexicon in 2014.<sup>[2]</sup></p>",
-  "phonology": "<p>Nihali has a five-vowel quality system (<code>/i, e, a, o, u/</code>) with length distinctions and a consonant inventory typical of central Indian linguistic area languages, including retroflex stops (<code>/ʈ, ʈʰ, ɖ, ɖʰ/</code>) and a retroflex flap <code>/ɽ/</code>.<sup>[2]</sup></p>",
+  "lead": "<b>Nihali</b> (also called <b>Kalto</b> or <b>Nahali</b>) is a Critically Endangered language spoken in the Buldhana district of Maharashtra and the adjoining East Nimar (Burhanpur) district of Madhya Pradesh along the Tapti River valley in central India.<sup>[1][2]</sup> Roughly 25% to 35% of its core Swadesh vocabulary—including pronouns, anatomical terms, and basic verbs—has no established external cognates.<sup>[1][2]</sup>",
+  "history": "<p>Nihali speakers have lived for centuries in a symbiotic socioeconomic relationship with the neighboring Korku community in villages around Jamod in Jalgaon Jamod tehsil.<sup>[1][2]</sup> F. B. J. Kuiper (1962) and Norman Zide analyzed its multilayered lexicon, noting that Nihali speakers also used a specialized register as a secret argot.<sup>[1]</sup> K. S. Nagaraja published a comprehensive descriptive grammar and lexicon in 2014.<sup>[2]</sup></p>",
+  "phonology": "<p>Nihali has a five-vowel quality system (<code>/i, e, a, o, u/</code>) with length distinctions and a consonant inventory typical of central Indian languages, including retroflex stops (<code>/ʈ, ʈʰ, ɖ, ɖʰ/</code>) and a retroflex flap <code>/ɽ/</code>.<sup>[2]</sup></p>",
   "consonants": [
     [
       "Stop (Voiceless)",
@@ -54,8 +52,8 @@
   "syntax": "<p>Nihali is strictly SOV. Case suffixes attach directly to noun phrases: accusative/dative <code>-ke / -na</code>, ergative/instrumental <code>-ka / -ki</code>, genitive <code>-n</code>, and locative <code>-mi / -ṭi</code>.<sup>[2]</sup></p>",
   "lessons": [
     {
-      "title": "Lesson 1: Isolate Pronominal System",
-      "intro": "Nihali personal pronouns lack cognates in Munda, Dravidian, or Indo-Aryan (Kuiper 1962; Nagaraja 2014: 48–56).<sup>[1][2]</sup>",
+      "title": "Lesson 1: Pronominal System",
+      "intro": "Personal pronouns from Kuiper (1962) and Nagaraja (2014: 48–56).<sup>[1][2]</sup>",
       "vocab": [
         {
           "orth": "jō",
@@ -147,7 +145,7 @@
         }
       ],
       "quiz": {
-        "q": "Which Nihali isolate roots mean 'water' and 'fire'?",
+        "q": "Which Nihali roots mean 'water' and 'fire'?",
         "a": "joppo (/dʒoppo/, 'water') and āpo (/aːpo/, 'fire')."
       }
     },

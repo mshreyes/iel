@@ -13,14 +13,14 @@
 **IEL (Encyclopedia of Indian Endangered Languages)** is a static reference encyclopedia and introductory course repository covering the **42 Critically Endangered languages of India** identified by the Ministry of Education, Government of India ([PIB Release ID: 108207](https://pib.gov.in/newsite/printrelease.aspx?relid=108207)) and the [UNESCO *Atlas of the World's Languages in Danger*](https://unesdoc.unesco.org/ark:/48223/pf0000187026).
 
 ### Key Features
-- **Detached Vector 2022 Encyclopedia UI**: Minimalist academic layout with light/dark mode, instant keyboard search (`/`), multi-criteria filtering (by Language Family, State/UT, and Entry Status), right-aligned infoboxes, and hover reference cards.
+- **Detached Vector 2022 Encyclopedia UI**: Minimalist academic layout with light/dark mode, instant keyboard search (`/`), multi-criteria filtering (by State/UT and Entry Status), right-aligned infoboxes, and hover reference cards.
 - **Complete Articles & 4-Unit Introductory Courses (6 Languages)**:
-  - **Toda (`tcx`)** — South Dravidian (Nilgiri Hills, Tamil Nadu)
-  - **Kota (`kfe`)** — South Dravidian (Nilgiri Hills, Tamil Nadu)
-  - **Toto (`txo`)** — Sino-Tibetan / Dhimalish (Totopara, West Bengal)
-  - **Great Andamanese / Jeru (`akj`)** — Great Andamanese (Strait Island, Andaman & Nicobar Islands)
-  - **Nihali (`nll`)** — Language Isolate (Buldhana, Maharashtra & Burhanpur, Madhya Pradesh)
-  - **Birhor (`biy`)** — Austroasiatic / North Munda (Jharkhand, Odisha, Chhattisgarh)
+  - **Toda (`tcx`)** — Nilgiri Hills, Tamil Nadu
+  - **Kota (`kfe`)** — Nilgiri Hills, Tamil Nadu
+  - **Toto (`txo`)** — Totopara, West Bengal
+  - **Great Andamanese / Jeru (`akj`)** — Strait Island, Andaman & Nicobar Islands
+  - **Nihali (`nll`)** — Buldhana, Maharashtra & Burhanpur, Madhya Pradesh
+  - **Birhor (`biy`)** — Jharkhand, Odisha, Chhattisgarh
 - **Structured Stubs (36 Languages)**: Complete demographic metadata, coordinates, persistent identifiers, and external archive links ready for expansion.
 - **FAIR Data Compliance**:
   - **Findable**: Indexed by SIL ISO 639-3, Endangered Languages Project (ELP), and OLAC identifiers, with embedded `Schema.org/Dataset` JSON-LD metadata.

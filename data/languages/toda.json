@@ -3,10 +3,8 @@
   "name": "Toda",
   "native": "Oḷy Mōt",
   "iso": "tcx",
-  "glotto": "toda1252",
-  "qid": "Q34096",
-  "family": "Dravidian",
-  "subfamily": "South Dravidian I (Tamil–Kannada)",
+  "elpUrl": "https://endangeredlanguages.com/elp-language/5103",
+  "elpLabel": "ELP #5103",
   "state": "Tamil Nadu (Nilgiri District)",
   "coords": "11.41°N, 76.69°E",
   "pop": "1,560 (2001 Census of India)",
@@ -14,9 +12,9 @@
   "script": "Unwritten (Tamil and IPA used in transcription)",
   "wordOrder": "SOV (Subject–Object–Verb)",
   "morphology": "Agglutinative, suffixing",
-  "lead": "<b>Toda</b> (endonym: <i>Oḷy Mōt</i>) is a South Dravidian language spoken by the pastoral Toda community in the Nilgiri Hills of Tamil Nadu, India.<sup>[1]</sup> First documented systematically by M. B. Emeneau between 1935 and 1938, Toda is noted in comparative Dravidian linguistics for its phonological divergence from neighboring languages, preserving a 16-vowel system and multiple apical, laminal, and retroflex sibilants and trills.<sup>[1][2]</sup>",
-  "history": "<p>The Toda people inhabit small hamlets known as <i>mod</i> (munds) situated at elevations above 2,000 meters on the Nilgiri plateau.<sup>[1]</sup> Comparative reconstruction by Bhadriraju Krishnamurti places the split of Proto-Toda-Kota from pre-Tamil inside the South Dravidian branch during the early first millennium BCE, followed by geographical isolation in the upper Nilgiris.<sup>[2]</sup></p><p>Traditional Toda society organized its economy around the sacred water buffalo (<i>īr</i>) and ritual dairies.<sup>[1]</sup> The 2001 Census of India recorded 1,560 speakers; UNESCO and the Government of India classify the language as Critically Endangered due to educational shift toward Tamil and English.<sup>[3][4]</sup></p>",
-  "phonology": "<p>Toda has one of the largest consonant inventories among Dravidian languages (35+ consonant phonemes), caused historically by the syncope of non-initial short vowels in Proto-South-Dravidian roots.<sup>[1][2]</sup> It distinguishes three voiceless/voiced sibilant-affricate series, voiceless laterals (<code>/ɬ/</code>, <code>/ɭ̊/</code>), and three distinct rhotics: alveolar trill <code>/r/</code>, alveolar tap/trill <code>/r̪/</code>, and retroflex trill <code>/ɽr/</code>.<sup>[1]</sup> The vowel inventory comprises 16 phonemes (8 qualities × short/long), including front rounded vowels <code>/y, yː/</code> (written <i>ü, ǖ</i> in Emeneau's notation) and central unrounded <code>/ɨ, ɨː/</code> (written <i>ï, ï̄</i>).<sup>[1]</sup></p>",
+  "lead": "<b>Toda</b> (endonym: <i>Oḷy Mōt</i>) is a language spoken by the pastoral Toda community in the Nilgiri Hills of Tamil Nadu, India.<sup>[1]</sup> First documented systematically by M. B. Emeneau between 1935 and 1938, Toda is noted in comparative linguistics for its phonological divergence from neighboring languages, preserving a 16-vowel system and multiple apical, laminal, and retroflex sibilants and trills.<sup>[1][2]</sup>",
+  "history": "<p>The Toda people inhabit small hamlets known as <i>mod</i> (munds) situated at elevations above 2,000 meters on the Nilgiri plateau.<sup>[1]</sup> Comparative reconstruction by Bhadriraju Krishnamurti places the split of Proto-Toda-Kota from pre-Tamil during the early first millennium BCE, followed by geographical isolation in the upper Nilgiris.<sup>[2]</sup></p><p>Traditional Toda society organized its economy around the sacred water buffalo (<i>īr</i>) and ritual dairies.<sup>[1]</sup> The 2001 Census of India recorded 1,560 speakers; UNESCO and the Government of India classify the language as Critically Endangered due to educational shift toward Tamil and English.<sup>[3][4]</sup></p>",
+  "phonology": "<p>Toda has 35+ consonant phonemes, caused historically by the syncope of non-initial short vowels.<sup>[1][2]</sup> It distinguishes three voiceless/voiced sibilant-affricate series, voiceless laterals (<code>/ɬ/</code>, <code>/ɭ̊/</code>), and three distinct rhotics: alveolar trill <code>/r/</code>, alveolar tap/trill <code>/r̪/</code>, and retroflex trill <code>/ɽr/</code>.<sup>[1]</sup> The vowel inventory comprises 16 phonemes (8 qualities × short/long), including front rounded vowels <code>/y, yː/</code> (written <i>ü, ǖ</i> in Emeneau's notation) and central unrounded <code>/ɨ, ɨː/</code> (written <i>ï, ï̄</i>).<sup>[1]</sup></p>",
   "consonants": [
     [
       "Stop / Affricate",
@@ -68,7 +66,7 @@
   "lessons": [
     {
       "title": "Lesson 1: Personal Pronouns & Numerals",
-      "intro": "Toda retains the Proto-Dravidian inclusive/exclusive distinction in first-person plural pronouns (Emeneau 1984: 72–76, 98).<sup>[1]</sup>",
+      "intro": "Toda retains the inclusive/exclusive distinction in first-person plural pronouns (Emeneau 1984: 72–76, 98).<sup>[1]</sup>",
       "vocab": [
         {
           "orth": "ōn",
